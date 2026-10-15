@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local copies of the Iowa liquor sales data (large; download separately, see README)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
